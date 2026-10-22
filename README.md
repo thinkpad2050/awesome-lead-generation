@@ -54,7 +54,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Expandi](https://expandi.io/) - Cloud-based LinkedIn automation with safety-focused sending limits.
 - [Dux-Soup](https://dux-soup.com/) - Browser-based LinkedIn prospecting and automation tool.
 - [Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) - LinkedIn's native prospecting and lead-list tool.
-- [OpenSparta](https://opensparta.com/en) - Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace.
+- [OpenSparta](https://opensparta.com/en) - Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
 
 ## Landing Pages, Forms & Lead Capture
 
